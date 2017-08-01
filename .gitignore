@@ -61,3 +61,7 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+/GestureUnlock/gradle
+/GestureUnlock/.idea
+/GestureUnlock/*.iml
+/GestureUnlock/local.properties
