@@ -4,7 +4,7 @@ A customized gesture view.
  The UnlockView contains all code.
  Thanks for using!
 # Usage
-1.Just copy the UnlickView.java to your project;</br>
+1.Just copy the UnlockView.java to your project;</br>
 2.Add this view into your layout</br>
 ```Java
     <com.wulei.gestureunlock.UnlockView
