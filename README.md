@@ -56,6 +56,8 @@ mUnlockView.setSelectR(30);//Customize the radius of outer circle
 ```
 7.Enjoy it!
 
+中文博客链接：[吴磊的简书](http://www.jianshu.com/p/a4c29ec5712f)
+
 
 # How to contact me:
   QQ:331948214</br>
